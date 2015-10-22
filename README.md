@@ -2,7 +2,10 @@
 
 Este curso tiene como objetivo enseñar el lenguaje SQL asi como funcionalidades del gestor SQLSERVER.
 
-![SQL SERVER](https://scontent-atl3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/s720x720/12063694_618885008251815_6970492366329879303_n.jpg?oh=f52c3579e7346bebdf45f90d953120cb&oe=568AF21A)
+
+[ ![](https://scontent-atl3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/s720x720/12063694_618885008251815_6970492366329879303_n.jpg?oh=f52c3579e7346bebdf45f90d953120cb&oe=568AF21A) ](https://www.youtube.com/user/tutorialeshackro)
+
+
 
 ## **INDICE**
 
