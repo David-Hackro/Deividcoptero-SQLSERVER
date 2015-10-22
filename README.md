@@ -103,3 +103,7 @@ Este curso tiene como objetivo enseñar el lenguaje SQL asi como funcionalidades
 [Curso de SQL Server  **#48** | Update & Delate con Vistas [Duracion: 3:57]](https://www.youtube.com/watch?v=Sq1O1BwSn1g&index=48&list=PL6hPvfzEEMDaU4aiS389oXamdN8sip856)
    
 [Curso de SQL Server  **#49** | Sentencia Witch Check Option en Vistas [Duracion: 4:03]] (https://www.youtube.com/watch?v=qg4Clxz5LE0&index=49&list=PL6hPvfzEEMDaU4aiS389oXamdN8sip856)
+
+Encuentra mas tutoriales aqui:
+
+[ ![](https://scontent-atl3-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/12079532_996714607059977_6043796678948954808_n.jpg?oh=4487254d27d46a1d72ac9b18a064c3c5&oe=56CAA426) ](https://www.youtube.com/user/deividcoptero)
