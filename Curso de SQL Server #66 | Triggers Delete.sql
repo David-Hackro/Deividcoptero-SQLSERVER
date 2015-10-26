@@ -19,7 +19,7 @@ as
 begin --Comienza las sentencias
 	declare @total int --Declaramos una variable int
 	set @total = (select sum(cantidad) from TablaVentas) --obtenemos la suma de las cantidades y lo asignamos a la variable
-	update TablaTotales --hacemos un update a lña tabla totales
+	update TablaTotales --hacemos un update a lÃ±a tabla totales
 	set TablaTotales.cantidad = @total 
 end --finalizan las sentecias
 		--fin Trigger--
