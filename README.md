@@ -107,6 +107,43 @@ Este curso tiene como objetivo enseñar el lenguaje SQL asi como funcionalidades
    
 [Curso de SQL Server  **#49** | Sentencia Witch Check Option en Vistas [Duracion: 4:03]] (https://www.youtube.com/watch?v=qg4Clxz5LE0&index=49&list=PL6hPvfzEEMDaU4aiS389oXamdN8sip856)
 
+[Curso de SQL Server  **#50** | VistasModificadas [Duracion: 2:59]] ()
+
+[Curso de SQL Server  **#51** | Lenguaje de Control de Flujo [CASE] [Duracion: 4:03]] ()
+
+[Curso de SQL Server  **#52** | Lenguaje de Control de Flujo [IF]. [Duracion: 4:03]] ()
+
+[Curso de SQL Server  **#53** | Variables [Duracion: 4:03]] ()
+
+[Curso de SQL Server  **#54** | Procedimientos Almacenados [Duracion: 4:03]] ()
+
+[Curso de SQL Server  **#55** | Procedimientos Almacenados Creacion y Ejecucion [Duracion: 4:03]] ()
+
+[Curso de SQL Server  **#56** | Procedimientos Almacenados Eliminacion [Duracion: 4:03]] ()
+
+[Curso de SQL Server  **#57** | Procedimientos Almacenados Parametros Entrada [Duracion: 4:03]] ()
+
+[Curso de SQL Server  **#58** | Procedimientos Almacenados Parametros Salida [Duracion: 4:03]] ()
+
+[Curso de SQL Server  **#59** | Procedimientos Almacenados Return [Duracion: 4:03]] ()
+
+[Curso de SQL Server  **#60** | Procedimientos Almacenados Info [Duracion: 4:03]] ()
+
+[Curso de SQL Server  **#61** | Procedimientos Almacenados Encrypt [Duracion: 4:03]] ()
+
+[Curso de SQL Server  **#62** | Procedimientos Almacenados Anidacion [Duracion: 4:03]] ()
+
+[Curso de SQL Server  **#63** | Triggers [Duracion: 4:03]] ()
+
+[Curso de SQL Server  **#64** | Triggers [Insert] [Duracion: 4:03]] ()
+
+[Curso de SQL Server  **#65** | Triggers [Update] [Duracion: 4:03]] ()
+
+[Curso de SQL Server  **#66** | Triggers [Delete] [Duracion: 4:03]] ()
+
+[Curso de SQL Server  **#67** | Triggers [Habilitar- Deshabilitar] [Duracion: 4:03]] ()
+
+
 Encuentra mas tutoriales aqui:
 
 [ ![](https://scontent-atl3-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/12079532_996714607059977_6043796678948954808_n.jpg?oh=4487254d27d46a1d72ac9b18a064c3c5&oe=56CAA426) ](https://www.youtube.com/user/deividcoptero)
